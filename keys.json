@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uber-61648",
+  "private_key_id": "87a64698a3ca18c1398beb3d9104a54c6c9c0e99",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpEazNaxCrnPWL\nLeIP23FVufwrHM6JoCJAnl2KEB17N1SIQoJXoMUOFUlpjL8MxUEwVvEVdwQWpvgL\nfWPpYmcn3YVhzbH+02AVvg5rP/NYyK/kbaT93reHNrQywcrzYoDSxc9N3H4AB5q0\nnpK28WYZTGTN4H6G6XYRf73gOjAWXca+4WHLttEYk0OuIlK1Uu12w8j6VaNMhK6B\nn/EuODXMiFHoafnx8GuLFPj8JlyIqYBsYpk/HjvRA4CRi6iBF7lPzCKLtK/XUY6/\nQ+hn/BSbpZvdJH63rzgWYI95NFD0slQz1/m2zoJIPrBdJFtHprS7sBVsCVjVryZa\nDIHuZGUPAgMBAAECggEARvK4dbe31WXsYTfQbx9P+tao6r7UKJT0mFMdCmApeU64\njtogL2ijU8wrEtRjfBG37G0q6mvWdMbTDzxWY78uw7XtWn5xRq81uqimXwOSol5F\nHPY7mYRoveJrLGBN1ZUQvhi1KHCMcpneAEmdQ89sUxssPHewTIVZCa6nMFDGPqgs\ngd9ZuTgfXzlcl8gazOXr0IOs8p+sQB65z3fmTTwZ3LAH5fuBHvkkgcXyNPk5czDk\ns7Bva9s6K9LmZwRTbmupCHfS5sxc08qbeV0ZJbskK2Mx/na/2Y8diHleUxksU7tW\n2Ebeu4wEuWjkvlGnPesLLrJtzeipZOAuoaXKKkYoQQKBgQD8hqdLjsFdwsUeCLT8\njhPQ5umeqUtt+35C0C1OEIm2lqhYQluVpX/H424XHlxRi6J6o7hE9OuRSe41K5I7\nUO17NtZxI3abWF5Ys19V4dVi6+Jt5P0O4Cw/xINyFuemZSEl8EoSffyt4sLA5lt+\neQoHJbIE0ajvNCCdXUU7l5W9nwKBgQDsRn986cHvWlAPtt6peNLZ2u0p5u+vm9/6\nBis+D8Q4ayey8ZfwAhZpJ45mIK1lcwBMygLOFpQ3GjpMoZvFsbq2kDxawctQkt9o\nZmCZxr5/ti/FxvjTpVNmecKKyMhtG/RQYGD6XLBB6ajR70XTs6k2tnz+TNbWBErQ\nT2/xKK9CkQKBgQDAoNasxFCsfQ5wQqQMozRqfjpnVSy80MMXpEVq7yKdrX7tFHFY\nTc6TY+FusTIq4iEm/AxsTYgEZCjZVktOBAWjn8kktLCc/2O4tdtbX9Gui9FFkw+W\ncVpPqk+6j85VF3+ZuRpH0OMWoYt+KjpQ13PWz+Jj2qrLDTBz2doeAxuucQKBgBtd\nFsq6r9EunnMTdLof2huM9UaTDlNCNDBaootvfAQktNZOkJAlTb8j66P8SNik9vXt\nt2Fyz/uJuBLD7Kx6pusZzUOdihRszh7jLHDiyZE04ld/cbXhQcVueI9mLYAlaqgc\nYV7deTRJAVo+4dFgz0oc3GD/OSpUGO4DJS3CznlhAoGBANkzssZOSz8u/PoigHb7\n7bORfRQL0GN9/TLcumtJz0Nlqds3iZS8K3e+RI/VYzSKYXxILrRD4ovwqkSC7raC\nw8gAxTenyA01yXhI5IlChLsFL33zdN9qu3FzvPkvHCRliiT4427qzmxffYBI608m\ntFupDfPhQ+LWsXFu5pnAQ+41\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload-image@uber-61648.iam.gserviceaccount.com",
+  "client_id": "102805534291457460850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-image%40uber-61648.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
